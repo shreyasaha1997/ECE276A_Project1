@@ -1,4 +1,4 @@
-All the data is preprocessed and stored in the data folder. The outouts are stored inside the data/<dataset_number>/logs folder. 
+All the data is preprocessed and stored in https://drive.google.com/file/d/1UqiGLL_FXXKng7uj4LWk4j_hr_7lNUDX/view?usp=sharing. Please download and unzip the file. The outputs will be stored inside the data/<dataset_number>/logs folder. 
 
 These are the commands to run the code. Added for every dataset for convenience - 
 
